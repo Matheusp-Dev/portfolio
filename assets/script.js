@@ -19,3 +19,12 @@ headerLinks.forEach(link => {
         menuButton.classList.remove('open');
     });
 });
+
+setInterval(function() {
+    document.getElementById?('radio' + counter).checked=true:
+    counter++;
+    if(counter > 2) {
+        counter = 1;
+    }
+}, 5000);
+
