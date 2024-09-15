@@ -791,12 +791,7 @@ footer .container .icons i:hover {
     }
 
     .project {
-        top: 149.5em;
-        left: 16em;
-    }
-
-    .project h2 {
-        font-size: 22px;
+        display: none;
     }
 
     /* Footer Section */
@@ -849,15 +844,6 @@ footer .container .icons i:hover {
     .character img {
         width: 50%;
     }
-
-    .project {
-        left: 11em;
-    }
-
-    .project h2 {
-        font-size: 16px;
-    }
-
 
     /* Contact Section */
 
